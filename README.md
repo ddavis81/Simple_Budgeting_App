@@ -37,5 +37,6 @@ for learning fundamental programming concepts.
 - **Agile Methodology**: Emphasizing iterative development, continuous
 feedback, and collaboration.
 ## Link to Project
-[Example Project Repository](https://github.com/ddavis81/Simple_budgeting_App)
+(https://github.com/ddavis81/Simple_budgeting_App)
+
 
